@@ -39,14 +39,7 @@ JARVIS AI Assistant is an advanced Android & Termux utility designed to analyze 
 
 ✔️ Android Optimized
 
----
-
-📸 Preview
-
-"JARVIS" (jarvis.png)
-
----
-
+----
 ⚙️ Installation
 
 pkg update -y && pkg upgrade -y
