@@ -20,6 +20,8 @@ pkg install python git -y
 git clone https://github.com/Sallu-Shk/Jarvis-AI-Assistant.git
 cd Jarvis-AI-Assistant
 
+pip install -r requirements.txt
+
 python salman_ai.py
 
 📱 Supported
