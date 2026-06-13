@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="jarvis.png" width="100%">
+</p>
+
 🤖 JARVIS AI
 
 Smart Device Analyzer & Gaming Assistant for Android/Termux.
